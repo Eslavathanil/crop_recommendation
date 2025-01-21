@@ -1,1 +1,1 @@
-# crop_recommendation
+the implementation of a Machine Learning-based Recommendation System for Farmers. The aims to assist farmers by providing real-time recommendations on suitable crops and fertilizers based on soil data.
